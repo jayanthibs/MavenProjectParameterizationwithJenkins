@@ -69,10 +69,10 @@
 						</suiteXmlFiles>   -->
 						
 						
-						<SystemPropertiesVariables>
+						<systemPropertiesVariables>
 						<browser>${browser}</browser>
 						<message>${message}</message>
-						</SystemPropertiesVariables>
+						</systemPropertiesVariables>
 					</configuration>
 				</plugin>
 				<plugin>
