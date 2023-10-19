@@ -67,14 +67,10 @@
 					  	<suiteXmlFiles>
 							<suiteXmlFile>Maventestng.xml</suiteXmlFile>
 						</suiteXmlFiles>   
-						
-						
+										
 						<systemPropertyVariables>
-						<browser>${browser}</browser>
-
-						<message>${message}</message>
-						
-
+							<browser>${browser}</browser>
+							<message>${message}</message>
 						</systemPropertyVariables>
 
 					</configuration>
