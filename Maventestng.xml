@@ -10,12 +10,5 @@
       
     </classes>
   </test> <!-- Test -->
-  <test thread-count="5" name="MavenTestNGTest2">
   
-    <classes>
-      
-      <class name="mavenpackage.Parameterization"/>
-      
-    </classes>
-  </test> <!-- Test -->
 </suite> <!-- Suite -->
